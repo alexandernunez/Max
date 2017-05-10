@@ -1,0 +1,8 @@
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\max\bin\HPD\Debug\netcoreapp1.1\max.deps.json
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\max\bin\HPD\Debug\netcoreapp1.1\max.runtimeconfig.json
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\max\bin\HPD\Debug\netcoreapp1.1\max.runtimeconfig.dev.json
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\max\obj\HPD\Debug\netcoreapp1.1\max.AssemblyInfo.cs
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\max\bin\HPD\Debug\netcoreapp1.1\max.dll
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\max\bin\HPD\Debug\netcoreapp1.1\max.pdb
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\max\obj\HPD\Debug\netcoreapp1.1\max.dll
+C:\Users\xande\Google Drive\Professional\Courses\CS50x\CSharp\homework1\max\obj\HPD\Debug\netcoreapp1.1\max.pdb
